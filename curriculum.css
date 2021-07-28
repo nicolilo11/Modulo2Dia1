@@ -1,0 +1,12 @@
+ header {
+    float: right;
+ }
+
+ main{
+     background-color: aliceblue;
+     font-family: 'Courier New', Courier, monospace;
+ }
+ 
+ footer{
+     text-align: center;
+ }

@@ -1,0 +1,31 @@
+body{
+    background-color: #B7B9BB;
+}
+.caja{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+    border: 2px solid black;
+}
+table{
+    margin: auto;
+    text-align: center;
+}
+
+td{
+    border:solid 5px black;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    padding: 5px;
+}
+th{
+    border: black;
+    color: rgb(0, 47, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    padding: 10px 10px 15px;    
+}

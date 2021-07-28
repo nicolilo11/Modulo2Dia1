@@ -1,0 +1,26 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aliceblue;
+}
+#titulo{
+    text-align: center;
+    color:black;
+}
+.father{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.child{
+    width: fit-content;
+    padding: 10px;
+    border: 2px solid white;
+    text-align: center;
+    color: black;
+}
+footer {
+    color: black;
+    text-align: center;
+}
